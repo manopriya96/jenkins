@@ -1,2 +1,2 @@
 # jenkins
-learn jenkins
+learn jenkins on own
